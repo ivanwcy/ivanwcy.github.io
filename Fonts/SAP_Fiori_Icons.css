@@ -2,9 +2,9 @@
 @font-face {
 	font-family: 'SAP Fiori Icons';
 	src:
-		url('https://boemmel.github.io/SAP/CustomFontsSAC/SAP-icons.woff2') format('woff2'),
-		url('https://boemmel.github.io/SAP/CustomFontsSAC/SAP-icons.woff') format('woff'),
-		url('https://boemmel.github.io/SAP/CustomFontsSAC/SAP-icons.ttf') format('truetype');
+		url('https://ivanwcy.github.io/Fonts/SAP/CustomFontsSAC/SAP-icons.woff2') format('woff2'),
+		url('https://ivanwcy.github.io/Fonts/SAP/CustomFontsSAC/SAP-icons.woff') format('woff'),
+		url('https://ivanwcy.github.io/Fonts/SAP/CustomFontsSAC/SAP-icons.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
