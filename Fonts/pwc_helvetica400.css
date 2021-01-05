@@ -1,0 +1,10 @@
+/* PwC Font */
+@font-face {
+	font-family: 'PwC regular Helvetica Neue';
+	src: 
+        url('https://pwcappkit-static.azureedge.net/cdn/release/3.5.1/assets/08b57253-2e0d-4c12-9c57-107f6c67bc49.94003a0e80103fc3f998ba7a59b2a237.woff2') format('woff2'),
+        url('https://pwcappkit-static.azureedge.net/cdn/release/3.5.1/assets/08edde9d-c27b-4731-a27f-d6cd9b01cd06.47b39d054a4241e4ccd868d4005e4492.woff') format('woff'),
+        url('https://pwcappkit-static.azureedge.net/cdn/release/3.5.1/assets/8f4a1705-214a-4dd0-80b8-72252c37e688.75ad4f60d19b3552006e77b755cdb5cf.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
