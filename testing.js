@@ -1,11 +1,11 @@
-var ajaxCall = (key, url, prompt) => {
+var ajaxCall = (key, url, prompt, model) => {
   return new Promise((resolve, reject) => {
     $.ajax({
       url: url,
       type: "POST",
       dataType: "json",
       data: JSON.stringify({
-        model: "gpt-3.5-turbo",
+        model: model,
         messages: [{"role": "user", "content": prompt}],
         max_tokens: 1024,
         n: 1,
