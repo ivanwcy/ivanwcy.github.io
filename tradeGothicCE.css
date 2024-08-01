@@ -14,11 +14,3 @@
 	font-weight: 700;
 	font-style: bold;
 }
-
-@font-face {
-	font-family: 'TradeGothicCE';
-	src: 
-	url('https://ivanwcy.github.io/TRADGCSC.TFF') format('truetype');
-	font-weight: 1000;
-	font-style: super bold;
-}
